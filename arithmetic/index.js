@@ -23,3 +23,9 @@ console.log (`perimeter of the triangle is: ${triangle} cm`);
  let cubeVolume = 9 * 9
  console.log (`volume of the cube is: ${cubeVolume} cm`);
 
+ const totalTicketsales = 6450
+ const ticketPrice = 15
+ console.log (`${totalTicketsales / ticketPrice} people purchased movie tickets`)
+
+ let income = 500 * 52
+ console.log (`Sylvia's income is: ${income} Dollars per year`)
