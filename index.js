@@ -18,3 +18,7 @@ let isOpen = true;
 
 //use let command, not var//
 
+let welcome = "hello";
+let name = "Graeme";
+console.log(`${welcome}, ${name}'s friend I want to say "Hi"!`)
+
